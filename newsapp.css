@@ -1,0 +1,52 @@
+body{
+	background-color: #f5ab35;
+}
+section{
+text-align:center;
+font-weight: bold;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 25%;
+}
+#title{
+	font-weight: bolder;
+	text-align: center;
+	font-size:30px;
+	color:green;
+}
+
+#description{
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	font-size:15px;
+}
+
+h3{
+	text-align:center;
+	color:red;
+	margin-top:50px;
+	font-weight:bolder;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	font-style: italic;
+	font-size:50px;
+}
+
+
+.list{
+	margin-top:50px;
+	font-weight: bolder;
+	text-align: center;
+	font-size:30px;
+	color:purple;
+}
+#names{
+	background-color: green;
+}
+#at{
+	float:right;
+	font-size:15px;
+	font-weight:bolder;
+}
